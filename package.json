@@ -1,0 +1,19 @@
+{
+  "name": "abu-taher",
+  "version": "1.0.0",
+  "description": "collecting all videos from abu taher vai",
+  "main": "index.js",
+  "scripts": {
+    "q": "set DEBUG=app:* & node index.js",
+    "jsdom": "set DEBUG=app:* & node read-by-jsdom.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "debug": "^4.1.1",
+    "dotenv": "^8.2.0",
+    "dotenv-cli": "^3.2.0",
+    "jsdom": "^16.3.0"
+  }
+}
