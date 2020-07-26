@@ -1,11 +1,15 @@
 {
-  "name": "abu-taher",
+  "name": "web-scraping",
   "version": "1.0.0",
-  "description": "collecting all videos from abu taher vai",
+  "description": "video tutorials from abu taher vai",
   "main": "index.js",
   "scripts": {
-    "q": "set DEBUG=app:* & node index.js",
-    "jsdom": "set DEBUG=app:* & node read-by-jsdom.js"
+    "cheerio": "set DEBUG=app:* & (cd sources && node cheerio.js)",
+    "jsdom": "set DEBUG=app:* & (cd sources && node read-by-jsdom.js)",
+    "puppeteer": "set DEBUG=app:* & (cd sources && node puppeteer.js)",
+    "headless": "set DEBUG=app:* & (cd sources && node headless.js)",
+    "puppeteerCaptcha": "set DEBUG=app:* & (cd sources && node puppeteerCaptcha.js)",
+    "puppeteerProxy": "set DEBUG=app:* & (cd sources && node puppeteerProxy.js)"
   },
   "license": "MIT",
   "dependencies": {
@@ -14,6 +18,9 @@
     "debug": "^4.1.1",
     "dotenv": "^8.2.0",
     "dotenv-cli": "^3.2.0",
-    "jsdom": "^16.3.0"
+    "jsdom": "^16.3.0",
+    "puppeteer": "^5.2.1",
+    "puppeteer-extra": "^3.1.13",
+    "puppeteer-extra-plugin-recaptcha": "^3.1.14"
   }
 }

@@ -14,9 +14,13 @@ That will help you with windows env but if you want to use cross platform I reco
 }
 ```
 
-I was having same issue and this help me!
-
 ## Recaptcha
 
-- `npm i puppeteer-extra`
-- `npm i puppeteer-extra-plugin-recaptcha`
+You need `puppeteer-extra` and `puppeteer-extra-plugin-recaptcha` library
+
+- add recaptcha plugin and provide it your 2captcha token
+- 2captcha is the builtin solution provider but others would work as well
+
+## Screenshot issue
+
+As you expected those screenshots would be saved in `data/` dir but as I change the dir using scripts(`cd sources`) hence it was created at `sources/data` 🙃
