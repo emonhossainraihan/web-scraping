@@ -1,5 +1,6 @@
 const puppeteer = require('puppeteer-extra');
 const RecaptchaPlugin = require('puppeteer-extra-plugin-recaptcha');
+
 puppeteer.use(
   RecaptchaPlugin({
     provider: {
