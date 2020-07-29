@@ -4,20 +4,23 @@
   "description": "video tutorials from abu taher vai",
   "main": "index.js",
   "scripts": {
-    "cheerio": "set DEBUG=app:* & (cd sources && node cheerio.js)",
-    "jsdom": "set DEBUG=app:* & (cd sources && node read-by-jsdom.js)",
-    "puppeteer": "set DEBUG=app:* & (cd sources && node puppeteer.js)",
-    "headless": "set DEBUG=app:* & (cd sources && node headless.js)",
-    "puppeteerCaptcha": "set DEBUG=app:* & (cd sources && node puppeteerCaptcha.js)",
-    "puppeteerProxy": "set DEBUG=app:* & (cd sources && node puppeteerProxy.js)"
+    "cheerio": "set DEBUG=app:* & (cd part1 && cd sources && node cheerio.js)",
+    "jsdom": "set DEBUG=app:* & (cd part1 && cd sources && node read-by-jsdom.js)",
+    "puppeteer": "set DEBUG=app:* & (cd part1 && cd sources && node puppeteer.js)",
+    "headless": "set DEBUG=app:* & (cd part1 && cd sources && node headless.js)",
+    "puppeteerCaptcha": "set DEBUG=app:* & (cd part1 && cd sources && node puppeteerCaptcha.js)",
+    "puppeteerProxy": "set DEBUG=app:* & (cd part1 && cd sources && node puppeteerProxy.js)"
   },
   "license": "MIT",
   "dependencies": {
     "axios": "^0.19.2",
     "cheerio": "^1.0.0-rc.3",
+    "colors": "^1.4.0",
     "debug": "^4.1.1",
     "dotenv": "^8.2.0",
+    "glob": "^7.1.6",
     "jsdom": "^16.3.0",
+    "json2csv": "^5.0.1",
     "puppeteer": "^5.2.1",
     "puppeteer-extra": "^3.1.13",
     "puppeteer-extra-plugin-recaptcha": "^3.1.14"

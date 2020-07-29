@@ -10,11 +10,11 @@ This repo is primarily aimed at developers who have some level of experience wit
 
 ## Outcomes
 
-By reading this post will be able to:
+By following this repo you will be able to:
 
 - Utilize multiple modern libraries to scrape the web
 
-## Libraries for craping
+## Libraries for scraping
 
 ### Cheerio: Core JQuery for traversing the DOM
 
@@ -33,6 +33,10 @@ Since a DOM is created, it is possible to interact with the web application or w
 Puppeteer, as the name implies, allows you to manipulate the browser programmatically just like how a puppet would be manipulated by its puppeteer. It achieves this by providing a developer with a high-level API to control a headless version of Chrome by default and can be configured to run non-headless.
 
 ### Nightmare: An alternative to Puppeteer
+
+# Part-1
+
+## Issues I get and their solution
 
 ## SET VARIABLE
 
@@ -71,4 +75,13 @@ You need `puppeteer-extra` and `puppeteer-extra-plugin-recaptcha` package to sol
 
 ## Screenshot issue
 
-As you expected those screenshots would be saved in `data/` dir but as I change the dir using scripts(`cd sources`) hence it was created at `sources/data` 🙃
+As you expected those screenshots would be saved in `data/` dir but as I change the dir using scripts(`cd part1 && cd sources`) hence it was created at `part1/sources/data` 🙃
+
+# Part-2
+
+Here we scrap [bgmea](http://www.bgmea.com.bd) a pagination page using cheerio.
+
+## Interesting thing
+
+- [config-axios](https://github.com/axios/axios#config-defaults)
+- [jquery-interating](https://learn.jquery.com/using-jquery-core/iterating/)
