@@ -1,82 +1,246 @@
 [
-    {
-        "name": "Marriam Vartolomei",
-        "phone": "(872) 469-7344"
-    },
-    {
-        "name": "Yvonne R Heins",
-        "phone": "(847) 562-5961"
-    },
-    {
-        "name": "Ewelina K Beardmore",
-        "phone": "(312) 219-9380"
-    },
-    {
-        "name": "Deborah K Mestas",
-        "phone": "(224) 223-1909"
-    },
-    {
-        "name": "Erin Johnston",
-        "phone": "(872) 219-0379"
-    },
-    {
-        "name": "Jamie Eisenberg",
-        "phone": "(773) 340-3949"
-    },
-    {
-        "name": "Jessica Masbaum",
-        "phone": "(872) 204-1939"
-    },
-    {
-        "name": "Jada Hudson",
-        "phone": "(630) 386-9038"
-    },
-    {
-        "name": "Clara Brennecke",
-        "phone": "(872) 704-8627"
-    },
-    {
-        "name": "Linda Benjamin",
-        "phone": "(224) 427-3642 x2"
-    },
-    {
-        "name": "Meagan Brown",
-        "phone": "(872) 242-1715"
-    },
-    {
-        "name": "Bernard Robert Golden",
-        "phone": "(773) 683-1092"
-    },
-    {
-        "name": "Jill Bajorek",
-        "phone": "(773) 839-4850"
-    },
-    {
-        "name": "Christina Matthews LLC",
-        "phone": "(708) 314-7491"
-    },
-    {
-        "name": "Christiaan Raftery",
-        "phone": "(312) 646-4669"
-    },
-    {
-        "name": "David Juelfs",
-        "phone": "(833) 251-5605"
-    },
-    {
-        "name": "Steven Sacks",
-        "phone": "(773) 551-6728"
-    },
-    {
-        "name": "Rajwinder Khurana",
-        "phone": "(773) 219-3933"
-    },
-    {
-        "name": "Jerica Hayes",
-        "phone": "(872) 231-3504"
-    },
-    {
-        "name": "Lisa Page",
-        "phone": "(847) 232-6919"
-    }
+    [
+        {
+            "name": "Tichina M. Burnett",
+            "phone": "(773) 673-9963",
+            "address": null,
+            "email": null
+        },
+        {
+            "name": "Richard Flynn, LCPC, ATR-BC, MFLC, CATP",
+            "phone": "(773) 295-2247",
+            "address": "dead link",
+            "email": null
+        },
+        {
+            "name": "Nancy Lawrenz",
+            "phone": "(630) 914-9782",
+            "address": null,
+            "email": null
+        },
+        {
+            "name": "Olesia Shalayska",
+            "phone": "(331) 236-0759 x707",
+            "address": "https://pica-associates.com/",
+            "email": "office@picaassoc.net"
+        },
+        {
+            "name": "Heather Miller",
+            "phone": "(312) 647-2007",
+            "address": "dead link",
+            "email": null
+        },
+        {
+            "name": "Stacey Max",
+            "phone": "(847) 416-2652",
+            "address": null,
+            "email": null
+        },
+        {
+            "name": "Wendy LeAnn",
+            "phone": "(618) 352-7049",
+            "address": "dead link",
+            "email": null
+        },
+        {
+            "name": "Olivia O'Hare",
+            "phone": "(630) 225-9261",
+            "address": "http://www.irvingbehavioralhealth.com/",
+            "email": "kirvingandassociates@gmail.com"
+        },
+        {
+            "name": "Compassionate Psychological Services LLC",
+            "phone": "(630) 318-2947",
+            "address": "https://riverhealing.com/",
+            "email": "waterous@yahoo.com"
+        },
+        {
+            "name": "Mary Holmes",
+            "phone": "(331) 701-2861",
+            "address": null,
+            "email": null
+        },
+        {
+            "name": "Chicago Center for Sexual Wellbeing",
+            "phone": "(872) 215-5563",
+            "address": "dead link",
+            "email": null
+        },
+        {
+            "name": "William Fraser Martin",
+            "phone": "(331) 204-1751 x202",
+            "address": "dead link",
+            "email": null
+        },
+        {
+            "name": "Irene Schreiner",
+            "phone": "(847) 892-4492",
+            "address": "https://solidfoundationstherapy.com/",
+            "email": "Info@Solidfoundationstherapy.com"
+        },
+        {
+            "name": "Helen Wyatt",
+            "phone": "(312) 813-7701 x4",
+            "address": "https://www.liveandlovemindfully.com/",
+            "email": "info@liveandlovemindfully.com"
+        },
+        {
+            "name": "Katie M Neidetcher",
+            "phone": "(309) 233-3963",
+            "address": "https://summitfamilytherapy.com/",
+            "email": "info@summitfamily.net"
+        },
+        {
+            "name": "Sara Shotsberger",
+            "phone": "(312) 313-3396",
+            "address": "http://www.graceintegrated.com/team/sara-shotsberger/",
+            "email": "admin@graceintegrated.com"
+        },
+        {
+            "name": "George W Cook",
+            "phone": "(844) 846-8351",
+            "address": "https://www.georgewcookprofcorp.com/",
+            "email": "Cook@outlook.com"
+        },
+        {
+            "name": "Dr. Kathryn Brandenborg",
+            "phone": "(866) 884-2704",
+            "address": "http://ciracenter.org/",
+            "email": "info@ciracenter.org"
+        },
+        {
+            "name": "Kelly Matthews-Pluta",
+            "phone": "(847) 512-8632",
+            "address": "dead link",
+            "email": null
+        },
+        {
+            "name": "Annie Felice",
+            "phone": "(407) 545-5474",
+            "address": "dead link",
+            "email": null
+        }
+    ],
+    [
+        {
+            "name": "Rebecca Gillett",
+            "phone": "(224) 203-5510",
+            "address": null,
+            "email": null
+        },
+        {
+            "name": "Thomas F Colley",
+            "phone": "(630) 835-0885",
+            "address": null,
+            "email": null
+        },
+        {
+            "name": "Brian Tobin",
+            "phone": "(872) 395-6018",
+            "address": "http://www.gettherapychicago.com/",
+            "email": "gettherapychicago@gmail.com"
+        },
+        {
+            "name": "Amber Boeschel",
+            "phone": "(708) 866-0162",
+            "address": null,
+            "email": null
+        },
+        {
+            "name": "Tara Genovese",
+            "phone": "(872) 221-8222",
+            "address": "dead link",
+            "email": null
+        },
+        {
+            "name": "Joseph Barr",
+            "phone": "(847) 416-0585",
+            "address": "https://www.bfnorth.com/",
+            "email": "josbarr333@gmail.com"
+        },
+        {
+            "name": "Parisa Azhdarianfard",
+            "phone": "(224) 261-7527",
+            "address": null,
+            "email": null
+        },
+        {
+            "name": "Daniel Serpa",
+            "phone": "(224) 204-0870",
+            "address": null,
+            "email": null
+        },
+        {
+            "name": "Erica Sidenstick",
+            "phone": "(708) 340-7719 x6",
+            "address": null,
+            "email": null
+        },
+        {
+            "name": "Lauren Bondy",
+            "phone": "(847) 380-1053",
+            "address": "https://parentingperspectives.com/about-us/lauren-bondy/",
+            "email": "lauren@parentingperspectives.com"
+        },
+        {
+            "name": "Sara Forsythe Menna",
+            "phone": "(773) 492-6552",
+            "address": null,
+            "email": null
+        },
+        {
+            "name": "Ginny Trainor",
+            "phone": "(312) 477-2273",
+            "address": null,
+            "email": null
+        },
+        {
+            "name": "Patricia Ahern",
+            "phone": "(872) 266-1311",
+            "address": "https://www.balance-counseling.com/",
+            "email": "8b4e078a51d04e0e9efdf470027f0ec1@sentry.wix"
+        },
+        {
+            "name": "Jill Thompson",
+            "phone": "(708) 315-7342",
+            "address": null,
+            "email": null
+        },
+        {
+            "name": "Latrice Annette Drain",
+            "phone": "(872) 231-3767",
+            "address": null,
+            "email": null
+        },
+        {
+            "name": "Maria Guadalupe Perez",
+            "phone": "(708) 426-1788",
+            "address": "https://mindfulwellnesstherapy.com/",
+            "email": "intake@mindfulwellnesstherapy.com"
+        },
+        {
+            "name": "Maya Zelio",
+            "phone": "(708) 541-1803",
+            "address": "dead link",
+            "email": null
+        },
+        {
+            "name": "Tiffany Casaccio",
+            "phone": "(616) 202-5093",
+            "address": null,
+            "email": null
+        },
+        {
+            "name": "Daniel Levi LCPC, Integrative Counseling Center",
+            "phone": "(773) 706-8981",
+            "address": "https://www.integrativecounselingcenter.com/",
+            "email": "info@integrativecounselingcenter.com"
+        },
+        {
+            "name": "Ashley Schmutzer",
+            "phone": "(630) 524-4059",
+            "address": "dead link",
+            "email": null
+        }
+    ]
 ]
